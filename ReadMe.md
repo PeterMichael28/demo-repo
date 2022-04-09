@@ -1,6 +1,6 @@
 # DEMO 
-some plain text!!
+my calculator
 
 ## subheader
-watch tutorials
+i did this after watching a tutorial
 
